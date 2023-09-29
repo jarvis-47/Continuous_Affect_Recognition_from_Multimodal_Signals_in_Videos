@@ -8,10 +8,10 @@ Our study issue is driven by a desire to investigate how merging audio and visua
 We used the OMG Dataset in our project, which includes audio and visual recordings of participants while watching videos that evoke different emotional responses. The dataset consists of around 600 videos, each having on average 8-10 utterances, of which each lasts between 3 and 60 seconds. The data was annotated by multiple human raters for arousal and valence values, which we used as our response variable. The dataset was already publicly available, and we did not have to collect the data ourselves.
 
 ## Data Representation:
-A. Unit of analysis – Individual video utterances. Each row represents a single utterance, and the columns contain features such as the transcript of the utterance, the video ID, and the predicted arousal and valence values.
-B. Observations – There were around 6000 individual video utterances in the OMG Dataset subset that were used in this project for training, validating, and predicting arousal and valence values.
-C. Time period – The OMG Dataset does not cover a specific time, as it consists of a collection of video recordings from various sources.
-D. Response Variable – Predicted arousal and valence values for each video utterance.
+1. **Unit of analysis** – Individual video utterances. Each row represents a single utterance, and the columns contain features such as the transcript of the utterance, the video ID, and the predicted arousal and valence values.
+2. **Observations** – There were around 6000 individual video utterances in the OMG Dataset subset that were used in this project for training, validating, and predicting arousal and valence values.
+3. **Time period** – The OMG Dataset does not cover a specific time, as it consists of a collection of video recordings from various sources.
+4. **Response Variable** – Predicted arousal and valence values for each video utterance.
 
 <div style="text-align:center"><i>Arousal: -1 Calm to +1 Alert</i></div>
 <div style="text-align:center"><i>Valence: -1 Negative to +1 Positive</i></div>
