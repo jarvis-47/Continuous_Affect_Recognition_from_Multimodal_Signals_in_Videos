@@ -12,7 +12,7 @@ A. Unit of analysis – Individual video utterances. Each row represents a singl
 B. Observations – There were around 6000 individual video utterances in the OMG Dataset subset that were used in this project for training, validating, and predicting arousal and valence values.
 C. Time period – The OMG Dataset does not cover a specific time, as it consists of a collection of video recordings from various sources.
 D. Response Variable – Predicted arousal and valence values for each video utterance.
-<center> _Arousal: -1 Calm to +1 Alert
-Valence: -1 Negative to +1 Positive_ </center>
+<center> *Arousal: -1 Calm to +1 Alert* </center>
+<center> *Valence: -1 Negative to +1 Positive* </center>
 
 
