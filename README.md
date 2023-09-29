@@ -13,9 +13,11 @@ B. Observations – There were around 6000 individual video utterances in the OM
 C. Time period – The OMG Dataset does not cover a specific time, as it consists of a collection of video recordings from various sources.
 D. Response Variable – Predicted arousal and valence values for each video utterance.
 
-<center> ** </center>
 <div style="text-align:center"><i>Arousal: -1 Calm to +1 Alert</i></div>
+<div style="text-align:center"><i>Valence: -1 Negative to +1 Positive</i></div>
 
-<center> *Valence: -1 Negative to +1 Positive* </center>
+## Results:
+![image](https://github.com/jarvis-47/Continuous_Affect_Recognition_from_Multimodal_Signals_in_Videos/assets/130951334/b86e7dcd-bbfa-4090-b0a8-a37649172cee)
+
 
 
